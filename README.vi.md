@@ -10,6 +10,10 @@ Không gian luyện thi IELTS Academic có hỗ trợ AI và ưu tiên chạy c�
 
 > Tất cả ảnh chụp bên dưới sử dụng dữ liệu minh họa ẩn danh. Dữ liệu học tập cá nhân, API key, cơ sở dữ liệu cục bộ, file mô hình và môi trường chạy không được đưa vào dự án công khai.
 
+**Lưu Ý**: Link demo ko có backend nên tính năng Speaking ko khả dụng. Người dùng cần tải dự án về chạy trên thiết bị cá nhân.
+> Demo: https://william-rowan-waltor.github.io/NMT-Ielts-Studium/
+
+
 ![Bảng điều khiển IELTS Writing Lab](screenshots/dashboard.png)
 
 ## Các tính năng
