@@ -9,6 +9,7 @@ An AI-assisted, local-first IELTS Academic practice workspace for Writing, Readi
 The app runs in the browser and supports either cloud AI providers or a project-local Ollama model. It is built for personal study and is not affiliated with IELTS, Cambridge University Press & Assessment, or the British Council.
 
 > All screenshots below use anonymous demo data. Personal study records, API keys, local databases, model files, and runtime environments are excluded from the public project.
+> Mention: Link demo does not have backend, you have to download to use the Speaking feature.
 
 ![IELTS Writing Lab dashboard](screenshots/dashboard.png)
 
