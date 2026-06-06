@@ -1,4 +1,4 @@
-# IELTS Writing Lab
+# IELTS Preparing Lab
 
 An AI-assisted, local-first IELTS Academic practice workspace for Writing, Reading, Listening, Speaking, Vocabulary, and progress tracking.
 
