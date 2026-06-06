@@ -10,6 +10,9 @@ Die Anwendung läuft im Browser und unterstützt sowohl Cloud-KI-Anbieter als au
 
 > Alle Screenshots verwenden anonyme Demodaten. Persönliche Lerndaten, API-Schlüssel, lokale Datenbanken, Modelldateien und Laufzeitumgebungen sind vom öffentlichen Projekt ausgeschlossen.
 
+**Hinweis**: Das Link-Demo hat kein Backend, Sie müssen es herunterladen, um die Sprechfunktion zu verwenden. 
+> Demo: https://william-rowan-waltor.github.io/NMT-Ielts-Studium/
+> 
 ![IELTS Writing Lab Dashboard](screenshots/dashboard.png)
 
 ## Funktionen
