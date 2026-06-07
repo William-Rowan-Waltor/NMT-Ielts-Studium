@@ -177,4 +177,4 @@ Bearbeite Dateien unter `src/`. `dist/app.jsx` und `index.html` werden durch `sc
 
 ## Lizenz
 
-Quellcode und Projektdokumentation stehen unter der [MIT-Lizenz](LICENSE). Die Lizenz gewährt keine Rechte zur Weitergabe fremder Audioinhalte, Transkripte, importierter Passagen, kopierter Prüfungsinhalte, persönlicher Datensätze, Benutzerexporte oder API-Schlüssel.
+Quellcode und Projektdokumentation stehen unter der [Apache-2.0-Lizenz]. Die Lizenz gewährt keine Rechte zur Weitergabe fremder Audioinhalte, Transkripte, importierter Passagen, kopierter Prüfungsinhalte, persönlicher Datensätze, Benutzerexporte oder API-Schlüssel.
