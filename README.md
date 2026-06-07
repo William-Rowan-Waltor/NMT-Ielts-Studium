@@ -340,6 +340,6 @@ Run `node scripts/serve.mjs` and open `http://localhost:5173` instead of double-
 
 ## License
 
-The source code and project documentation are licensed under the [MIT License](LICENSE).
+The source code and project documentation are licensed under the [Apache 2.0 License].
 
 The license does not grant redistribution rights for third-party audio, transcripts, imported passages, copied exam material, personal datasets, user exports, API keys, or files saved under local data directories.
