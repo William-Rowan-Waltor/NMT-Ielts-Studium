@@ -178,4 +178,4 @@ Chỉnh sửa source trong `src/`. `dist/app.jsx` và `index.html` được tạ
 
 ## Giấy phép
 
-Mã nguồn và tài liệu dự án được cấp phép theo [MIT License](LICENSE). Giấy phép không cấp quyền phân phối lại âm thanh, transcript, passage nhập vào, tài liệu thi sao chép, dataset cá nhân, file xuất của người dùng hoặc API key thuộc bên thứ ba.
+Mã nguồn và tài liệu dự án được cấp phép theo [Apache 2.0 License]. Giấy phép không cấp quyền phân phối lại âm thanh, transcript, passage nhập vào, tài liệu thi sao chép, dataset cá nhân, file xuất của người dùng hoặc API key thuộc bên thứ ba.
